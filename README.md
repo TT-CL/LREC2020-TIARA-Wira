@@ -1,4 +1,8 @@
 # TIARA - A Lightweight Tool for Annotating Discourse Relations and Sentence Reordering
+## Note
+This repository is the clone of [https://github.com/wiragotama/TIARA-annotationTool](https://github.com/wiragotama/TIARA-annotationTool). Please refer to the original repository for the latest version.
+
+## About
 Annotation tool described in [our paper at LREC2020](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.854.pdf). Please kindly cite the following paper when you use this tool. It would also be appreciated if you send me a courtesy [email](https://wiragotama.github.io), so I could survey what kind of tasks the tool is used for. 
 
 ```
